@@ -1,17 +1,17 @@
 {
-  "name": "@kalyan.shelf/my-lil-button",
+  "name": "@kalyan.shelf/my-button",
   "version": "1.0.0",
   "type": "module",
   "files": [
     "dist"
   ],
-  "module": "./dist/my-lil-button.js",
+  "module": "./dist/my-button.js",
   "exports": {
     ".": {
-      "import": "./dist/my-lil-button.js"
+      "import": "./dist/my-button.js"
     }
   },
-  "main": "./dist/my-lil-button.js",
+  "main": "./dist/my-button.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

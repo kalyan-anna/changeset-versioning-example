@@ -14,7 +14,7 @@ export default defineConfig({
     lib: {
       entry: 'src/index.ts',
       name: 'MyLilButton',
-      fileName: 'my-lil-button',
+      fileName: 'my-button',
       formats: ['es'],
     },
     rollupOptions: {

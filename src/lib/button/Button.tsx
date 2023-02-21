@@ -1,12 +1,12 @@
-import { FunctionalComponent, h } from 'preact';
+import { PropsWithChildren } from 'react';
 import styles from './Button.module.css';
 
-interface ButtonProps {
+type ButtonProps = PropsWithChildren & {
   onClick: () => void;
   disabled?: boolean;
-}
+};
 
-export const Button: FunctionalComponent<ButtonProps> = ({
+export const Button: React.FC<ButtonProps> = ({
   onClick,
   disabled,
   children,

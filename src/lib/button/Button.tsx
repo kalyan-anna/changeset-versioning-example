@@ -10,15 +10,10 @@ export const Button: React.FC<ButtonProps> = ({
   onClick,
   disabled,
   children,
-  dsfsfsd,
 }) => {
   return (
-    <buttondfdfd
-      classNamesdfsdfds={styles.button}
-      onClick={onClick}
-      disabled={disabled}
-    >
+    <button className={styles.button} onClick={onClick} disabled={disabled}>
       {children}
-    </buttondfdfd>
+    </button>
   );
 };

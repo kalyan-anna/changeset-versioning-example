@@ -1,1 +1,1 @@
-# vite-react-lib-mode
+Example library using changeset versioning

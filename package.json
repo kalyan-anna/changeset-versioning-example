@@ -15,7 +15,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "changeset": "changeset"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

@@ -17,7 +17,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "changeset": "changeset version",
-    "changeset:status": "changeset status"
+    "changeset:status": "changeset status",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
@@ -28,7 +29,8 @@
     "react-dom": "^18.2.0",
     "typescript": "^4.9.3",
     "vite": "^4.1.0",
-    "vite-plugin-dts": "^2.0.0-beta.3"
+    "vite-plugin-dts": "^2.0.0-beta.3",
+    "husky": "^8.0.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",

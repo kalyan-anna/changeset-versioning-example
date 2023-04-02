@@ -16,7 +16,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "changeset": "changeset"
+    "changeset": "changeset version",
+    "changeset:status": "changeset status"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

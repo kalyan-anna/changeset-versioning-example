@@ -19,9 +19,3 @@ jobs:
         run: yarn install
       - name: Build
         run: yarn build
-      - name: Run changeset
-        # Use Yarn to run the changeset CLI tool
-        run: yarn changeset version
-        env:
-          # Set the GITHUB_TOKEN environment variable
-          GITHUB_TOKEN: ${{ secrets.CHANGESET_TOKEN }}

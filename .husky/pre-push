@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
 echo 'CURRENT_ENV:' $CURRENT_ENV
 
-if [ "$CURRENT_ENV" == "CI/CD" ];
+if [ "$CURRENT_ENV" = "CI/CD" ];
 then
     exit 0
 fi

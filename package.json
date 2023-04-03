@@ -16,6 +16,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

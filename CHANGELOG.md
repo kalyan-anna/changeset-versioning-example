@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.4
+
+### Patch Changes
+
+- 5a0a579: auto commit changeset
+
 ## 1.0.3
 
 ### Patch Changes

@@ -23,7 +23,7 @@
     "changeset": "changeset",
     "changeset:status": "changeset status",
     "prepare": "husky install",
-    "release": "yarn build && yarn changeset release --public"
+    "release": "yarn build && yarn changeset publish --public"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

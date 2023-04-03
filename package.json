@@ -2,6 +2,7 @@
   "name": "@kalyan.shelf/my-changeset-button",
   "version": "1.0.7",
   "type": "module",
+  "private": false,
   "files": [
     "dist"
   ],
@@ -19,7 +20,8 @@
     "changeset": "changeset",
     "changeset:status": "changeset status",
     "prepare": "husky install",
-    "release": "yarn build && yarn changeset publish"
+    "publish": "npm publish --access=public",
+    "release": "yarn build && yarn publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

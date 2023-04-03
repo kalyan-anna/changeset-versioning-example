@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.5
+
+### Patch Changes
+
+- 354021d: fix release script
+
 ## 1.0.4
 
 ### Patch Changes

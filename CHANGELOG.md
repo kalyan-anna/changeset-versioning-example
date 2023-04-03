@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.3
+
+### Patch Changes
+
+- ada89fc: use npm publish
+
 ## 1.0.2
 
 ### Patch Changes

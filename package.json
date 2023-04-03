@@ -18,8 +18,7 @@
     "preview": "vite preview",
     "changeset": "changeset",
     "changeset:status": "changeset status",
-    "prepare": "husky install",
-    "release": "yarn build && npm publish"
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

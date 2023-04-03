@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.10
+
+### Patch Changes
+
+- cab0c57: test file
+
 ## 1.0.9
 
 ### Patch Changes

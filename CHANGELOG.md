@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.12
+
+### Patch Changes
+
+- fb31fcd: debug
+
 ## 1.0.11
 
 ### Patch Changes

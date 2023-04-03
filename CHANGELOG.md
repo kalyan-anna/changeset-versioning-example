@@ -1,5 +1,17 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.1.1
+
+### Patch Changes
+
+- ade1472: check status
+- 1de75f5: debug
+- 2c39c7a: debug
+- 657acb3: debug
+- 1b2557a: debug env
+- 464f320: debug
+- 5d14b93: fix if
+
 ## 1.1.0
 
 ### Minor Changes

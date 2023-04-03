@@ -6,6 +6,8 @@ on:
 jobs:
   versioning:
     runs-on: ubuntu-latest
+    env:
+      CURRENT_ENV: 'CI/CD'
     steps:
       - uses: actions/checkout@v2
         with:

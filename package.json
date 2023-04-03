@@ -16,7 +16,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "changeset": "changeset --commit",
+    "changeset": "changeset",
     "changeset:status": "changeset status",
     "prepare": "husky install"
   },

@@ -1,5 +1,15 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.1.0
+
+### Minor Changes
+
+- 93a94d0: auto minor version
+
+### Patch Changes
+
+- c32d0ed: testing auto versioning
+
 ## 1.0.19
 
 ### Patch Changes

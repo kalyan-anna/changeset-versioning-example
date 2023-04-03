@@ -1,5 +1,11 @@
 # @kalyan.shelf/my-changeset-button
 
+## 1.0.17
+
+### Patch Changes
+
+- f6277a9: debug
+
 ## 1.0.16
 
 ### Patch Changes
